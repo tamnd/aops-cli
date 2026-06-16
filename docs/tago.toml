@@ -1,0 +1,10 @@
+title       = "aops"
+baseURL     = "https://aops-cli.tamnd.com/"
+description = "Browse Art of Problem Solving wiki and forums"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/aops-cli"
